@@ -1,6 +1,5 @@
 import React from 'react';
 import './footer.css';
-import Profile from "../profile/Profile";
 
 export default class Footer extends React.Component {
     constructor(props) {

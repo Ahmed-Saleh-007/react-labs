@@ -66,7 +66,7 @@ function MainTodo() {
     };
 
     return (
-        <div className="app">
+        <div className="app my-4 p-5">
             <div className="container">
                 <h1 className="text-center mb-4">Todo List</h1>
                 <FormTodo addTodo={addTodo}/>
